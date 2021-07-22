@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Harsh
+### Hi there 👋
 #### MEAN Stack developer
 
 Skills: Angular / Node / MongoDB / AWS Cloud / React
