@@ -8,7 +8,7 @@ Skills: Angular / Node / MongoDB / AWS Cloud / React
 - 📫 How to reach me: harshajudia99@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Harsh-Ajudia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/harsh-ajudia/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Harsh-Ajudia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/harsh-ajudia/)  
 
 [![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsh-Ajudia&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
