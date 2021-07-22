@@ -4,7 +4,7 @@
 Skills: Angular / Node / MongoDB / AWS Cloud / React
 
 - 🔭 I’m currently working on Angular / Node.JS 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning React / Ethereum / Solidity
 - 📫 How to reach me: harshajudia99@gmail.com 
 
 
